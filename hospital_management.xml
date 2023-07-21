@@ -1,0 +1,164 @@
+<hospital>
+    <Patients>
+        <patient>
+            <Name>
+                <fname>Amol</fname>
+                <mname>D</mname>
+                <lname>More</lname>
+            </Name>
+            <SSN>120</SSN>
+            <age>21</age>
+            <roomno>330</roomno>
+            <Insurance type="Primary">
+                <P.id>1</P.id>
+                <P.address>Satara</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>36</S.id>
+                <S.address>Satara</S.address>
+            </Insurance>
+            <Medicalproblem>BP</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>Aniket</fname>
+                <mname>M</mname>
+                <lname>Patil</lname>
+            </Name>
+            <SSN>120</SSN>
+            <age>22</age>
+            <roomno>331</roomno>
+            <Insurance type="Primary">
+                <P.id>2</P.id>
+                <P.address>kolhapur</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>60</S.id>
+                <S.address>kolhapur</S.address>
+            </Insurance>
+            <Medicalproblem>BP</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>Sankalp</fname>
+                <mname>s</mname>
+                <lname>Patil</lname>
+            </Name>
+            <SSN>120</SSN>
+            <age>23</age>
+            <roomno>332</roomno>
+            <Insurance type="Primary">
+                <P.id>3</P.id>
+                <P.address>kolhapur</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>18</S.id>
+                <S.address>kolhapur</S.address>
+            </Insurance>
+            <Medicalproblem>BP</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>Ragav</fname>
+                <mname>D</mname>
+                <lname>Mehta</lname>
+            </Name>
+            <SSN>120</SSN>
+            <age>21</age>
+            <roomno>330</roomno>
+            <Insurance type="Primary">
+                <P.id>1</P.id>
+                <P.address>Satara</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>36</S.id>
+                <S.address>Satara</S.address>
+            </Insurance>
+            <Medicalproblem>BP</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>Anmol</fname>
+                <mname>R</mname>
+                <lname>Patil</lname>
+            </Name>
+            <SSN>120</SSN>
+            <age>22</age>
+            <roomno>331</roomno>
+            <Insurance type="Primary">
+                <P.id>2</P.id>
+                <P.address>kolhapur</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>60</S.id>
+                <S.address>kolhapur</S.address>
+            </Insurance>
+            <Medicalproblem>BP</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>Anmol</fname>
+                <mname>R</mname>
+                <lname>Patil</lname>
+            </Name>
+            <SSN>150</SSN>
+            <age>19</age>
+            <roomno>301</roomno>
+            <Insurance type="Primary">
+                <P.id>2</P.id>
+                <P.address>kolhapur</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>60</S.id>
+                <S.address>kolhapur</S.address>
+            </Insurance>
+            <Medicalproblem>Diabetes</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>Ankita</fname>
+                <mname>R</mname>
+                <lname>Sharma</lname>
+            </Name>
+            <SSN>120</SSN>
+            <age>22</age>
+            <roomno>331</roomno>
+            <Insurance type="Primary">
+                <P.id>2</P.id>
+                <P.address>kolhapur</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>60</S.id>
+                <S.address>kolhapur</S.address>
+            </Insurance>
+            <Medicalproblem>BP</Medicalproblem>
+            <Drugallergy>none</Drugallergy>
+        </patient>
+        <patient>
+            <Name>
+                <fname>sailli</fname>
+                <mname>P</mname>
+                <lname>mokashi</lname>
+            </Name>
+            <SSN>123</SSN>
+            <age>22</age>
+            <roomno>123456</roomno>
+            <Insurance type="Primary">
+                <P.id>abc12</P.id>
+                <P.address>Kolhapur</P.address>
+            </Insurance>
+            <Insurance type="Secondary">
+                <S.id>123def</S.id>
+                <S.address>Sangli</S.address>
+            </Insurance>
+            <Medicalproblem>Mind Problems</Medicalproblem>
+            <Drugallergy>no drugs</Drugallergy>
+        </patient>
+    </Patients>
+</hospital>
